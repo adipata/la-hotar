@@ -2,7 +2,7 @@
 #include <hash.h>
 
 int main() {
-	uint8_t digest{} [16] ;
+	uint8_t digest[16] ;
 	
 	uint8_t text[] = "Coco Jambo";
 
